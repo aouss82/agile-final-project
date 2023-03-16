@@ -1,1 +1,1 @@
-# template
+# ISSUE_TEMPLATE
